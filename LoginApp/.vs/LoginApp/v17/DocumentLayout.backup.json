@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\LoginApp\\LoginApp\\",
+  "WorkspaceRootPath": "C:\\Users\\I-Life\\source\\repos\\LoginApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{186A39DB-F92E-495B-890D-8D1D9BF94079}|LoginApp\\LoginApp.csproj|c:\\users\\i-life\\onedrive\\documents\\github\\loginapp\\loginapp\\loginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{186A39DB-F92E-495B-890D-8D1D9BF94079}|LoginApp\\LoginApp.csproj|c:\\users\\i-life\\source\\repos\\loginapp\\loginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{186A39DB-F92E-495B-890D-8D1D9BF94079}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\LoginApp\\LoginApp\\LoginApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\I-Life\\source\\repos\\LoginApp\\LoginApp\\Program.cs",
               "RelativeDocumentMoniker": "LoginApp\\Program.cs",
-              "ToolTip": "C:\\Users\\I-Life\\OneDrive\\Documents\\GitHub\\LoginApp\\LoginApp\\LoginApp\\Program.cs",
+              "ToolTip": "C:\\Users\\I-Life\\source\\repos\\LoginApp\\LoginApp\\Program.cs",
               "RelativeToolTip": "LoginApp\\Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAIwEkAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwEkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T12:57:33.9Z",
               "EditorCaption": ""
